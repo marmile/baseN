@@ -1,7 +1,5 @@
 # baseN
 
-[![Build Status]OK][![GoDoc] OK]
-
 `baseN` implements baseN encoding for integer numbers of arbitrary precision with given string to be used as base.
 The code originate from mattheath/base62. 
 
