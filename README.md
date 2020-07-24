@@ -1,6 +1,6 @@
 # baseN
 
-[![Build Status](https://travis-ci.org/mattheath/base62.svg?branch=master)](https://travis-ci.org/mattheath/base62) [![GoDoc](https://godoc.org/github.com/mattheath/base62?status.svg)](https://godoc.org/github.com/mattheath/base62)
+[![Build Status]OK][![GoDoc] OK]
 
 `baseN` implements baseN encoding for integer numbers of arbitrary precision with given string to be used as base.
 The code originate from mattheath/base62. 
