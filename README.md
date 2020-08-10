@@ -24,8 +24,9 @@ func main() {
 
 // Encoding 64 bit integers
 var n int64 = 4815162342
-var N string = "0123456789abcdefghijklmnop"
+var N string = "abc"
 encoded := baseN.EncodeInt64(n,N)
-fmt.Println(encoded)
+fmt.Println(encoded) 
+// Expected output created as base3 encoding using characters "abc" specified in string N: bbabacbcabcabcacccaaa
 
 ```
