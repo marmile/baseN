@@ -1,3 +1,4 @@
+//Package baseN implements baseN encoding for integer numbers with given string to be used as base. 
 package baseN
 
 import (
